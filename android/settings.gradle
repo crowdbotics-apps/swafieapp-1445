@@ -1,0 +1,3 @@
+rootProject.name = 'swafieapp_1445'
+
+include ':app'
